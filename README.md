@@ -42,5 +42,5 @@ As it consist of data such as
  * Traditional models: Facebook Prophet
 
 # Result
- Succesfully predicted the Confirmed, Active, Deaths, Recovered Patients in the world for next 7 days Dated from -
+ Succesfully predicted the Confirmed, Active, Deaths, Recovered Patients in the world for next 7 days Dated from - 27/07/2020 to 03/08/2020
 
